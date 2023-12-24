@@ -1,0 +1,7 @@
+
+23574013 - İlker Aytaç Çalışkan
+23574041 - Ali Samed Kıraç
+
+6.3 Tuttuğunuz spor takımının skor istatistiklerini takip etmek için bir E-R diyagramı
+tasarlayın. Oynanan maçları, her maçtaki skorları, her maçtaki oyuncuları
+ve her maç için bireysel oyuncu skor istatistiklerini saklamanız gerekir.
